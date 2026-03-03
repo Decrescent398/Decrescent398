@@ -1,9 +1,11 @@
 <br>
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=678&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+    <a href="[https://github-readme-stats.hackclub.dev/api/wakatime?username=678&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8](https://github-readme-stats.hackclub.dev/api/wakatime?username=678&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)">
       <img alt="Hackatime Stats"
-        src="https://github-readme-stats.hackclub.dev/api/wakatime?username=678&api_domain=hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+        src="[https://github-readme-stats.hackclub.dev/api/wakatime?username=678&api_domain=hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8](https://github-readme-stats.hackclub.dev/api/wakatime?username=678&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)" />
     </a>
     <img height="170"
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgxbWh3ZW96d2JwbDFqZ25sd2UwZHkzZnJpNWNuMnkxOTBlYXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gczbF6nbRPVZ1YigE3/giphy.gif" />
